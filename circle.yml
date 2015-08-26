@@ -1,3 +1,3 @@
 notify:
   webhooks:
-    - url: http://qa1.kore.com/flow/alerts/n-986f0477-a96e-5acd-bff4-50b091be8a7
+    - url: https://qa1.kore.com/hooks/510c9166e6cd81b77c33212f63cec672
