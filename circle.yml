@@ -1,4 +1,5 @@
 notify:
   webhooks:
     - url: https://qa1.kore.com/hooks/510c9166e6cd81b77c33212f63cec672
-    - url: https://hooks.slack.com/services/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
+    - url: https://hooks.slack.com/services/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http://requestb.in/1ho8cl71
+    - url: http://requestb.in/1ho8cl71
